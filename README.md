@@ -4,7 +4,7 @@
 
 <!--ts-->
    * [Create Filter](#create_filter)
-   * * [Install plugin](#install_plugin)
+   * [Install plugin](#install_plugin)
    * [Create Rule](#create_rule)
 <!--te-->
 <h4 id="create_filter"> 
